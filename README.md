@@ -28,7 +28,7 @@
 <br />
 Табелата: <br />
 <br />
-[Everybranch .xlsx](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15448879/Everybranch.xlsx)
+[Everybranch .xlsx](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15448879/Everybranch.xlsx) <br />
 <br />
 Тест случаеви:
 <br />
