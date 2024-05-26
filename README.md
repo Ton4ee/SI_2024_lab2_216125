@@ -1,4 +1,4 @@
-[EveryBranch..txt](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15447841/EveryBranch.txt)# Втора лабораториска вежба по предметот Софтверско Инженерство
+[MultipleCondition.txt](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15447913/MultipleCondition.txt)[EveryBranch..txt](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15447841/EveryBranch.txt)# Втора лабораториска вежба по предметот Софтверско Инженерство
 
 
 ## Antonio Puceski 216125
@@ -33,4 +33,12 @@
 Тест случаеви:
 <br />
 [EveryBranch..txt](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15447844/EveryBranch.txt)
+
+### Тест случаи според условот Multiple Condition
+Услов:if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)== '0'). 
+<br />
+Документација:
+<br />
+[MultipleCondition.txt](https://github.com/Ton4ee/SI_2024_lab2_216125/files/15447915/MultipleCondition.txt)
+<br />
 
